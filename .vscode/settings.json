@@ -2,12 +2,14 @@
     "cSpell.words": [
         "chromadb",
         "dotenv",
+        "Groq",
         "hnsw",
         "hnswlib",
         "huggingface",
         "jailbreaking",
         "langchain",
         "RTGS",
-        "tiktoken"
+        "tiktoken",
+        "vectordb"
     ]
 }
