@@ -5,7 +5,9 @@
         "hnsw",
         "hnswlib",
         "huggingface",
+        "jailbreaking",
         "langchain",
+        "RTGS",
         "tiktoken"
     ]
 }

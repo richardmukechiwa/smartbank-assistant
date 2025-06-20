@@ -7,7 +7,7 @@ from typing import Union, Optional
 from paths import DATA_DIR, PUBLICATION_FPATH, ENV_FPATH
 
 
-def load_publication(publication_external_id="yzN0OCQT7hUS"):
+def load_publication(publication_external_id="electronic_payments_full_guide"):
     """Loads the publication markdown file.
 
     Returns:
@@ -17,11 +17,18 @@ def load_publication(publication_external_id="yzN0OCQT7hUS"):
         FileNotFoundError: If the file does not exist.
         IOError: If there's an error reading the file.
     """
-    publication_fpath = Path(os.path.join(DATA_DIR, f"{publication_external_id}.md"))
+    publication_fpath = Path(
+        os.path.join(
+            DATA_DIR,
+            f"{publication_external_id}.md"
+        )
+    )
 
     # Check if file exists
     if not publication_fpath.exists():
-        raise FileNotFoundError(f"Publication file not found: {publication_fpath}")
+        raise FileNotFoundError(
+            f"Publication file not found: {publication_fpath}"
+        )
 
     # Read and return the file content
     try:

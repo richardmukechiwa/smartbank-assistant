@@ -1,0 +1,55 @@
+# Sample conversation questions for Electronic Payments & ATM Security publication
+# These simulate natural conversation flow for memory management demo
+questions:
+  # Basic understanding and general awareness
+  - "what are electronic payments"
+  - "what access devices can be used for electronic payments"
+  - "why is customer awareness important in e-payments"
+  - "how can technology increase convenience in financial transactions"
+
+  # ATM usage and safety
+  - "what are the key safety tips when using an ATM"
+  - "how can i tell if an ATM has been tampered with"
+  - "what should i do if my ATM card is stuck"
+  - "why should i avoid help from strangers at the ATM"
+  - "how do i safely handle cash and card after an ATM transaction"
+
+  # PIN and password safety
+  - "what are the best practices for PIN security"
+  - "should i write down or save my PIN in my phone"
+  - "what kind of PINs should i avoid using"
+  - "how often should i change my PIN"
+  - "how do i shield my PIN when typing at the ATM or POS"
+  - "what makes a password strong for online banking"
+
+  # Internet and online banking safety
+  - "what are good practices for safe internet banking"
+  - "how can i check if a website is secure for payments"
+  - "should i let my browser remember banking passwords"
+  - "how do i protect myself from phishing or fake banking sites"
+  - "is it safe to access internet banking on public Wi-Fi"
+  - "what kind of antivirus or firewall protection do i need for internet banking"
+  - "how can two-factor authentication improve my online banking security"
+  - "what should i do after completing an online banking session"
+
+  # POS (Point of Sale) and card security
+  - "what are important POS safety tips for retailers"
+  - "how can retailers detect POS tampering"
+  - "why is it important to secure the position of POS terminals"
+  - "how can merchants maintain POS device security and updates"
+  - "should i give my card or PIN to merchant staff"
+  - "what should i do if my mobile device linked to banking is lost or stolen"
+
+  # Mobile banking safety
+  - "how can i protect my mobile banking information"
+  - "what should i check before downloading a banking app"
+  - "why should i avoid public Wi-Fi for mobile banking"
+  - "what are the dangers of jailbreaking or rooting my phone"
+  - "how does remote wipe help in mobile security"
+  - "how do i manage message alerts and security codes on mobile"
+
+  # Fraud monitoring and general safety
+  - "how do i check for unauthorized transactions on my account"
+  - "why should i regularly check my bank statements"
+  - "what should i do if i suspect my account was compromised"
+  - "what should i do if i lose access to my online or mobile banking"
