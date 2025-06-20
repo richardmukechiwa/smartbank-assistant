@@ -3,6 +3,7 @@
         "chromadb",
         "dotenv",
         "hnsw",
+        "hnswlib",
         "huggingface",
         "langchain",
         "tiktoken"
