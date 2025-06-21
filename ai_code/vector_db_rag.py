@@ -46,8 +46,8 @@ def retrieve_relevant_documents(
 
     Args:
         query (str): The search query string
-        n_results (int): Number of results to return (default: 5)
-        threshold (float): Threshold for the cosine similarity score (default: 0.3)
+        n_results (int): Number of results to return (default: 8)
+        threshold (float): Threshold for the cosine similarity score (default: 1.5)
 
     Returns:
         dict: Query results containing ids, documents, distances, and metadata

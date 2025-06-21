@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 from typing import Union, Optional
 
-from paths import DATA_DIR, PUBLICATION_FPATH, ENV_FPATH
+from paths import DATA_DIR, ENV_FPATH
 
 
 def load_publication(publication_external_id="electronic_payments_full_guide"):
@@ -15,7 +15,7 @@ def load_publication(publication_external_id="electronic_payments_full_guide"):
 
     Raises:
         FileNotFoundError: If the file does not exist.
-        IOError: If there's an error reading the file.
+        IOError: If there's an error reading the file.s
     """
     publication_fpath = Path(
         os.path.join(

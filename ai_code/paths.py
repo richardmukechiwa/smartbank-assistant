@@ -15,7 +15,7 @@ OUTPUTS_DIR = os.path.join(ROOT_DIR, "outputs")
 
 
 DATA_DIR = os.path.join(ROOT_DIR, "data")
-PUBLICATION_FPATH = os.path.join(DATA_DIR, "electronic_payments_full_guide.md")
+PUBLICATION_FPATH = os.path.join(DATA_DIR, "publications.md")
 
 VECTOR_DB_DIR = os.path.join(OUTPUTS_DIR, "vector_db")
 
