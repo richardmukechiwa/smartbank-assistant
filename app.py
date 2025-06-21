@@ -2,7 +2,7 @@ import streamlit as st
 import logging
 from dotenv import load_dotenv
 from ai_code.utils import load_yaml_config
-from prompt_builder import build_prompt_from_config
+from ai_code.prompt_builder import build_prompt_from_config
 from langchain_groq import ChatGroq
 from ai_code.paths import APP_CONFIG_FPATH, PROMPT_CONFIG_FPATH
 from ai_code.vector_db_ingest import get_db_collection, embed_documents

@@ -1,4 +1,5 @@
 # paths.py
+""" Paths to various data files and directories.s"""
 import os
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
