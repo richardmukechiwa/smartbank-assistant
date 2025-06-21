@@ -9,6 +9,8 @@ pyyaml~=6.0.2
 chromadb~=1.0.12
 chroma-hnswlib~=0.7.6
 tiktoken~=0.9.0
+pysqlite3-binary
+
 
 # Web Interface
 streamlit
