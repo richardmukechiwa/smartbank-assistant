@@ -1,11 +1,11 @@
 import os
 import logging
 from dotenv import load_dotenv
-from utils import load_yaml_config
-from prompt_builder import build_prompt_from_config
+from ai_code.utils import load_yaml_config
+from ai_code.prompt_builder import build_prompt_from_config
 from langchain_groq import ChatGroq
-from paths import APP_CONFIG_FPATH, PROMPT_CONFIG_FPATH, OUTPUTS_DIR
-from vector_db_ingest import get_db_collection, embed_documents
+from ai_code.paths import APP_CONFIG_FPATH, PROMPT_CONFIG_FPATH, OUTPUTS_DIR
+from ai_code.vector_db_ingest import get_db_collection, embed_documents
 
 logger = logging.getLogger()
 

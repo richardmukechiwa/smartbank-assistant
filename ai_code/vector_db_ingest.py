@@ -2,10 +2,10 @@ import os
 import torch
 import chromadb
 import shutil
-from paths import VECTOR_DB_DIR
+from ai_code.paths import VECTOR_DB_DIR
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from utils import load_all_publications
+from ai_code.utils import load_all_publications
 
 
 def initialize_db(

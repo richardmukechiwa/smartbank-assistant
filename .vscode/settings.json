@@ -9,7 +9,10 @@
         "jailbreaking",
         "langchain",
         "RTGS",
+        "smartai",
+        "Smartbank",
         "tiktoken",
-        "vectordb"
+        "vectordb",
+        "ZIPIT"
     ]
 }
