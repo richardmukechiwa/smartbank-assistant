@@ -81,7 +81,7 @@ streamlit run app.py
 docker build -t smartbank-assistant .
 
 # Run it on port 8501
-docker run -p 8501:8501 --env-file .env smartbank-assistant
+docker run -p 8501:8501 smartbank-assistant:latest
 ```
 
 ---
