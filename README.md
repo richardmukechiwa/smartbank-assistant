@@ -106,7 +106,12 @@ Type your question and click **"Ask Assistant"**.
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/rbzscreenshot.png) <!-- Optional: Replace with full UI screenshot -->
+![App Screenshot](assets/rbzscreenshot.png) 
+
+---
+
+## 📹 Video Walkthrough
+![Live Demo](assets\rbzchatbot.mp4) 
 
 ---
 
