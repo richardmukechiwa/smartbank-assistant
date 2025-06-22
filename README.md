@@ -112,7 +112,12 @@ Type your question and click **"Ask Assistant"**.
 
 ## 📹 Video Walkthrough
 
-[Live Demo](assets/rbzchatbot.mp4) 
+Download the demo video using the link below:
+
+👉 [Download Video Demo](assets/rbzchatbot.mp4)
+
+---
+
 
 ---
 
