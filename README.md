@@ -59,7 +59,7 @@ git clone https://github.com/richardmukechiwa/smartbank-assistant.git
 cd smartbank-assistant
 
 # 2. Create & activate environment
-conda create -n smartai python=3.10 -y
+conda create -n smartai python=3.12 -y
 conda activate smartai
 
 # 3. Install dependencies

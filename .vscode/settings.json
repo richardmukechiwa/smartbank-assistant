@@ -9,6 +9,8 @@
         "jailbreaking",
         "langchain",
         "pysqlite",
+        "PYTHONDONTWRITEBYTECODE",
+        "PYTHONUNBUFFERED",
         "RTGS",
         "smartai",
         "Smartbank",
